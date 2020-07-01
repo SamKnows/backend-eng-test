@@ -60,5 +60,5 @@ to jump into the container to run composer, etc ...
 
 ## When you're finished
 
-Add @jmwri and @skroberto to your private GitHub repo so we can see your code.
+Add jmwri and skroberto to your private GitHub repo so we can see your code.
 Thank you and good luck!
