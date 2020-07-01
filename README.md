@@ -58,6 +58,7 @@ make shell
 to jump into the container to run composer, etc ...
 
 
-## Conclusion
+## When you're finished
 
-Good luck, we hope to hear from you soon!
+Add '@mattwillo', '@jmwri', '@stunami' and '@skroberto' to your private GitHub repo so we can see your code.
+Thank you and good luck!
